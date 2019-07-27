@@ -1,7 +1,7 @@
-## Project goal
+# Excel_VBA_Manager
 The aim of the project is to provide code that will allow you to export/import VBA code (classes, modules, forms, etc.) into/from any chosen Excel file.
 
-## VBA refences used
+## VBA references used
 - Visual Basic fo Applications
 - Microsoft Excel 16.0 Object Library
 - OLE Automation
