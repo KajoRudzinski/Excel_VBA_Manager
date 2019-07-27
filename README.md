@@ -1,7 +1,3 @@
-# Excel_VBA_Manager
-
-
-
 ## Project goal
 The aim of the project is to provide code that will allow you to export/import VBA code (classes, modules, forms, etc.) into/from any chosen Excel file.
 
@@ -14,5 +10,5 @@ The aim of the project is to provide code that will allow you to export/import V
 - Microsoft Visual Basic for Applications Extensibiliy 5.3
 
 ## Inspired by
-https://www.rondebruin.nl/
-https://www.youtube.com/user/WiseOwlTutorials
+- https://www.rondebruin.nl/
+- https://www.youtube.com/user/WiseOwlTutorials
